@@ -13,3 +13,7 @@ Bojanka sadrži ilustracije za bojanje, kratke opise bogova, simbole u istom crt
 U obje knjige najprije dolazi ilustracija, a zatim tekst o istom liku. PDF se otvara u prikazu jedne stranice. Tekstualne stranice prate prirodni motiv svakog lika.
 
 PDF-ovi su dostupni i u mapi [knjige](knjige). Kontrolni zbrojevi nalaze se u [SHA256SUMS](knjige/SHA256SUMS).
+
+## Pregled i preostale dorade
+
+[Pregled svih 46 stranica i popis preostalih dorada](PREGLED-KNJIGA.md), s primjerima uočenih nepravilnosti i stavkama za pripremu tiska.
