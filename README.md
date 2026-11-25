@@ -1,19 +1,14 @@
 # Boje iz davnina i Kad priroda priča
 
-Dvije uređene knjige u formatu A4, svaka s 23 stranice.
+Bojanka i slikovnica s deset likova iz slavenskih predaja. Nakon svake ilustracije u bojanci slijede simbol i kratak opis lika, a u slikovnici priča za čitanje naglas.
 
-## Preuzimanje
+## Za preuzimanje
 
-- [Preuzmi bojanku — Boje iz davnina (PDF)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Boje-iz-davnina.pdf)
-- [Preuzmi slikovnicu — Kad priroda priča (PDF)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Kad-priroda-prica.pdf)
-- [Preuzmi obje knjige zajedno (ZIP)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Obje-knjige.zip)
+- [Boje iz davnina · bojanka (PDF)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Boje-iz-davnina.pdf)
+- [Kad priroda priča · slikovnica (PDF)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Kad-priroda-prica.pdf)
+- [Obje knjige za čitanje (ZIP)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Obje-knjige.zip)
+- [Paket za tiskaru · A4 i 3 mm napusta (ZIP)](https://github.com/qulyttvv-beep/literate-octo-broccoli/raw/refs/heads/main/knjige/Tisak-A4-3mm.zip)
 
-Bojanka sadrži ilustracije za bojanje, kratke opise bogova, simbole u istom crtačkom stilu.
+PDF-ovi za čitanje imaju po 23 stranice. Tiskovne inačice imaju po 24 stranice, uključujući stražnju koricu. Paket za tiskaru sadrži CMYK i RGB inačice, pojedinačne stranice po redoslijedu čitanja i upute za odabir profila.
 
-U obje knjige najprije dolazi ilustracija, a zatim tekst o istom liku. PDF se otvara u prikazu jedne stranice. Tekstualne stranice prate prirodni motiv svakog lika.
-
-PDF-ovi su dostupni i u mapi [knjige](knjige). Kontrolni zbrojevi nalaze se u [SHA256SUMS](knjige/SHA256SUMS).
-
-## Pregled i preostale dorade
-
-[Pregled svih 46 stranica i popis preostalih dorada](PREGLED-KNJIGA.md), s primjerima uočenih nepravilnosti i stavkama za pripremu tiska.
+[Pregled obiju knjiga](PREGLED-KNJIGA.md) · [Upute za tiskaru](tisak/UPUTE-ZA-TISKARU.md) · [Kontrolni zbrojevi](knjige/SHA256SUMS)
